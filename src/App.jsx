@@ -14,6 +14,8 @@ function App() {
         <Route path='/about' element={<About/>}></Route>
         <Route path='/login' element={<Login/>}></Route>
         <Route path='/recipe' element={<Recipe/>}></Route>
+        <Route path='/recipe/:id' element={<Recipe/>}></Route>
+
 
 
 

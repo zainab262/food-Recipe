@@ -1,0 +1,12 @@
+.about-sec{
+    text-align: center;
+    padding: 20px 40px;
+}
+.about-sec>h2{
+    font-size: 30px;
+
+}
+.about-sec>p{
+    font-size: 20px;
+    padding: 30px;
+}

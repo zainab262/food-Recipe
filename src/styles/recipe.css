@@ -1,0 +1,19 @@
+
+.recipe-page{
+    padding: 20px;
+
+}
+.img{
+    display: flex;
+    justify-items: center;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+}
+.cont{
+    display: flex;
+    flex-direction: row;
+   
+    justify-content: space-between;
+    padding: 40px;
+}
